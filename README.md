@@ -53,7 +53,7 @@ To add a dataset for inference, go to filenames_config.py in the repository root
   
 
 # Attributions
-This code is developed upon the code written by Rafique et al (https://github.com/mvrl/sink-seg/). A paper associated with the code can be found at Koch et al. (2026) 
+This code is developed upon the code written by Rafique et al (https://github.com/mvrl/sink-seg/). A paper associated with the code can be found in _Earth and Space Science_, Koch et al. (2026; https://doi.org/10.1029/2025EA004937). 
 
 Segmentation approach and encoders use backbone from Segmentation Models, Iakubovskii (2019; https://github.com/4uiiurz1/pytorch-nested-unet)
 
